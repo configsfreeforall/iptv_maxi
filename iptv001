@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion
+http://premierchile.shop:8080/991387621tv2/gn65g2/54682
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54683
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion Sagas
+http://premierchile.shop:8080/991387621tv2/gn65g2/54684
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion Sagas HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion Sagas HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54685
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Comedia 1" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Comedia 1
+http://premierchile.shop:8080/991387621tv2/gn65g2/54686
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Comedia 2" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Comedia 2
+http://premierchile.shop:8080/991387621tv2/gn65g2/54687
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia 1" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia 1
+http://premierchile.shop:8080/991387621tv2/gn65g2/54688
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia 2" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia 2
+http://premierchile.shop:8080/991387621tv2/gn65g2/54689
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54690
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia Sagas
+http://premierchile.shop:8080/991387621tv2/gn65g2/54691
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil
+http://premierchile.shop:8080/991387621tv2/gn65g2/54692
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54693
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil Sagas
+http://premierchile.shop:8080/991387621tv2/gn65g2/54694
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil Sagas HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil Sagas HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54695
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Marvel" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Marvel
+http://premierchile.shop:8080/991387621tv2/gn65g2/54696
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Marvel HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Marvel HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54697
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Romance" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Romance
+http://premierchile.shop:8080/991387621tv2/gn65g2/54698
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Romance HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Romance HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54699
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Terror" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Terror
+http://premierchile.shop:8080/991387621tv2/gn65g2/54700
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Terror HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Terror HD
+http://premierchile.shop:8080/991387621tv2/gn65g2/54701
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Zombis" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Zombis
+http://premierchile.shop:8080/991387621tv2/gn65g2/54702
 #EXTINF:-1 tvg-id="" tvg-name="HBO Series" tvg-logo="https://iili.io/HX40H2s.png" group-title="HBO 24/7",HBO Series
 http://1line.ttvrilieos.xyz:8080/rHAGRVhTLwTu/cLd4kkCx2xn2/4243
 #EXTINF:-1 tvg-id="" tvg-name="HBO peliculas" tvg-logo="https://iili.io/HX40H2s.png" group-title="HBO 24/7",HBO peliculas
