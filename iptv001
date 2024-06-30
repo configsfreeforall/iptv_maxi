@@ -1,22 +1,102 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion
-http://premierchile.shop:8080/991387621tv2/gn65g2/54682
+http://premierchile.shop:8080/974993273tv/m02v4v/54682
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion HD
-http://premierchile.shop:8080/991387621tv2/gn65g2/54683
+http://premierchile.shop:8080/974993273tv/m02v4v/54683
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion Sagas
-http://premierchile.shop:8080/991387621tv2/gn65g2/54684
+http://premierchile.shop:8080/974993273tv/m02v4v/54684
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion Sagas HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion Sagas HD
-http://premierchile.shop:8080/991387621tv2/gn65g2/54685
+http://premierchile.shop:8080/974993273tv/m02v4v/54685
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Comedia 1" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Comedia 1
-http://premierchile.shop:8080/991387621tv2/gn65g2/54686
+http://premierchile.shop:8080/974993273tv/m02v4v/54686
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Comedia 2" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Comedia 2
-http://premierchile.shop:8080/991387621tv2/gn65g2/54687
-#EXTINF:-1 xui-id="2090917" tvg-id="" tvg-name="24/7 :CINE ACCION" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yRvkAOD0JhFwYy_hDqX2l8
-#EXTINF:-1 xui-id="2090918" tvg-id="" tvg-name="24/7 :CINE ACCION SAGAS" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION SAGAS
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zvO-IF0k4qB1N-CQMWEASH
-#EXTINF:-1 xui-id="2090919" tvg-id="" tvg-name="24/7 :CINE SAGAS INFANTIL" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE SAGAS INFANTIL
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z1qSmHHssIqQ84-YZLOBfA
+http://premierchile.shop:8080/974993273tv/m02v4v/54687
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia 1" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia 1
+http://premierchile.shop:8080/974993273tv/m02v4v/54688
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia 2" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia 2
+http://premierchile.shop:8080/974993273tv/m02v4v/54689
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54690
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Ficcion/Fantasia Sagas
+http://premierchile.shop:8080/974993273tv/m02v4v/54691
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil
+http://premierchile.shop:8080/974993273tv/m02v4v/54692
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54693
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil Sagas" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil Sagas
+http://premierchile.shop:8080/974993273tv/m02v4v/54694
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Infantil Sagas HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Infantil Sagas HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54695
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Marvel" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Marvel
+http://premierchile.shop:8080/974993273tv/m02v4v/54696
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Marvel HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Marvel HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54697
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Romance" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Romance
+http://premierchile.shop:8080/974993273tv/m02v4v/54698
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Romance HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Romance HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54699
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Terror" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Terror
+http://premierchile.shop:8080/974993273tv/m02v4v/54700
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Terror HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Terror HD
+http://premierchile.shop:8080/974993273tv/m02v4v/54701
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Zombis" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Zombis
+http://premierchile.shop:8080/974993273tv/m02v4v/54702
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi" tvg-logo="" group-title="→ 24/7 ←",24/7 Blippi
+http://premierchile.shop:8080/974993273tv/m02v4v/54816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lara Campos" tvg-logo="" group-title="→ 24/7 ←",24/7 Lara Campos
+http://premierchile.shop:8080/974993273tv/m02v4v/54820
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="" group-title="→ 24/7 ←",24/7 El Chavo del Ocho
+http://premierchile.shop:8080/974993273tv/m02v4v/54854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="" group-title="→ 24/7 ←",24/7 Dragon Ball Z
+http://premierchile.shop:8080/974993273tv/m02v4v/54855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes" tvg-logo="" group-title="→ 24/7 ←",24/7 Dragon Ball Heroes
+http://premierchile.shop:8080/974993273tv/m02v4v/54858
+#EXTINF:-1 tvg-id="" tvg-name="LA_Accion01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Accion01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54937
+#EXTINF:-1 tvg-id="" tvg-name="LA_Accion02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Accion02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54938
+#EXTINF:-1 tvg-id="" tvg-name="LA_Accion03 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Accion03 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54939
+#EXTINF:-1 tvg-id="" tvg-name="LA_Accion04 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Accion04 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54940
+#EXTINF:-1 tvg-id="" tvg-name="LA_Accion05 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Accion05 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54941
+#EXTINF:-1 tvg-id="" tvg-name="LA_Animacion03 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Animacion03 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54942
+#EXTINF:-1 tvg-id="" tvg-name="LA_Disney Clasico 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Disney Clasico 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54943
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Familiar01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Familiar01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54944
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Familiar02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Familiar02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54945
+#EXTINF:-1 tvg-id="" tvg-name="LA_Animacion02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Animacion02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54946
+#EXTINF:-1 tvg-id="" tvg-name="LA_Animacion01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Animacion01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54947
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Fantasia01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Fantasia01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54948
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Fantasia02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Fantasia02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54949
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Fantasia03 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Fantasia03 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54950
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Saga01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Saga01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54951
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Saga02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Saga02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54952
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Saga03 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Saga03 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54953
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Saga04 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Saga04 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54954
+#EXTINF:-1 tvg-id="" tvg-name="LA_Cine Saga05 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Cine Saga05 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54955
+#EXTINF:-1 tvg-id="" tvg-name="LA_Caso Cerrado01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Caso Cerrado01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54956
+#EXTINF:-1 tvg-id="" tvg-name="LA_Documentales 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Documentales 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54957
+#EXTINF:-1 tvg-id="" tvg-name="LA_Señor de los Cielos01 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Señor de los Cielos01 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54958
+#EXTINF:-1 tvg-id="" tvg-name="LA_Señor de los Cielos02 24/7" tvg-logo="" group-title="→ CINE PPV II ←",LA_Señor de los Cielos02 24/7
+http://premierchile.shop:8080/974993273tv/m02v4v/54959
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Merlina" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/11/Merlina_-_Poster.jpg/revision/latest?cb=20220923182223&path-prefix=es" group-title="24/7 EXCLUSIVOS",24/7 - Merlina
 http://pro.boxdigital.org:8080/maurok3785/XXvyELJh9zXX/147789
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Super Mario Bros 3" tvg-logo="https://pics.filmaffinity.com/the_adventures_of_super_mario_bros_3-439373383-large.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Super Mario Bros 3
@@ -497,378 +577,386 @@ http://pro.boxdigital.org:8080/maurok3785/XXvyELJh9zXX/267953
 http://pro.boxdigital.org:8080/maurok3785/XXvyELJh9zXX/267954
 #EXTINF:-1 tvg-id="" tvg-name="AMERICAN DAD (24/7)" tvg-logo="http://toplatintv.club:80/images/_qGXuuk34f7oZLVxksgj51OIrWU5EdOUj6TIQ-VtoLy8Q1mI4KXuaXmlREYRuI01jOrRRAmqTjOC7KVGexow9YwYWle8Zaz6WJh0jegRvEBN0vAVu2L2_WX2EZcdTbb8vaucvRp-sm3rmjR_-xSiOxO1jaUDk5jT2nEANfgF_ncFT7ISNS0M6bI3kptxfcAlMQ4zF8oRpo2HhO6F2YL2XbpMnOOVPi7txHBmgkgFpzE.png" group-title="24/7 PPV",AMERICAN DAD (24/7)
 http://pro.boxdigital.org:8080/maurok3785/XXvyELJh9zXX/267955
+#EXTINF:-1 xui-id="2090917" tvg-id="" tvg-name="24/7 :CINE ACCION" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm6o_zGAVJVbbeGP7ZvriQQ
+#EXTINF:-1 xui-id="2090918" tvg-id="" tvg-name="24/7 :CINE ACCION SAGAS" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION SAGAS
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkliBnHtBEOr_QzKnh9Px32c
+#EXTINF:-1 xui-id="2090919" tvg-id="" tvg-name="24/7 :CINE SAGAS INFANTIL" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE SAGAS INFANTIL
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkn5_fpcLLhn3LJN5yiufyck
 #EXTINF:-1 xui-id="2090937" tvg-id="" tvg-name="24/7 Cantinflas" tvg-logo="http://ceoapps.org/logos/247cantinflas.png" group-title="TV | 24/7 Peliculas",24/7 Cantinflas
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yxVTfBOHR7Jy0k6dvp3N79
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkki1ARvVSgvsV7Vb5gtEIWS4
 #EXTINF:-1 xui-id="2090954" tvg-id="" tvg-name="24/7 Capitan Planeta y Los Planetarios" tvg-logo="http://ceoapps.org/logos/capitanplanetario.png" group-title="TV | 24/7 Retro",24/7 Capitan Planeta y Los Planetarios
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wO7zOmDCuo7vhf-9135ZtC
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkvjoNk-bcMBoTXS6kDctlis
 #EXTINF:-1 xui-id="189868" tvg-id="" tvg-name="24/7 Caso Cerrado" tvg-logo="http://ceoapps.org/logos/casocerrado24.png" group-title="TV | 24/7 Series",24/7 Caso Cerrado
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioVzKK8uPy4iQMF1gR77_n-t752fLw2tZMxo5ju4fwjQ3
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksGrmZa5pZ7b-D1B1Tb1qh0
 #EXTINF:-1 xui-id="2090979" tvg-id="" tvg-name="24/7 Chespirito" tvg-logo="http://ceoapps.org/logos/chespirito.png" group-title="TV | 24/7 Retro",24/7 Chespirito
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xytdwGCwgtYYDgDWNPZKEs
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgTXXQ8r0oXuVgBmR7cVhbE
 #EXTINF:-1 xui-id="2090938" tvg-id="" tvg-name="24/7 Clasicos de Disney (Latino)" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Clasicos de Disney (Latino)
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z2C50f3_sZhsf9DgVcT7pF
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkQ8lGv_J0zyrDBNrhYRX8E
 #EXTINF:-1 xui-id="2091358" tvg-id="" tvg-name="24/7 DAVE Y EVA" tvg-logo="http://ceoapps.org/logos/daveava.png" group-title="TV | 24/7 Infantil",24/7 DAVE Y EVA
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6w8cea4EVpwD5IaByJSCEN8
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhwE-3RF_LCZWeDXj7rEC8Y
 #EXTINF:-1 xui-id="2090939" tvg-id="" tvg-name="24/7 Disney Live Action" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Disney Live Action
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xRWay0a-o9RnEZwzIWQSd5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkju2SQCjo5iVoyh47LoQ32Y
 #EXTINF:-1 xui-id="2090955" tvg-id="" tvg-name="24/7 Donde esta Wally" tvg-logo="http://ceoapps.org/logos/dondestawaly.png" group-title="TV | 24/7 Retro",24/7 Donde esta Wally
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xCe1eRaUcv_rzlt0GcD_8h
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkCrP-dEfG7ReI_ekrO2dus
 #EXTINF:-1 xui-id="2133668" tvg-id="" tvg-name="24/7 Dragon Ball Freezer" tvg-logo="http://ceoapps.org/logos/dragonfreezer.png" group-title="TV | 24/7 Series",24/7 Dragon Ball Freezer
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4rjBcg27Q5-zmbv18dchiPW
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkp1AkxFNI1R-TydL75sGpTo
 #EXTINF:-1 xui-id="2090982" tvg-id="" tvg-name="24/7 El Auto Fantastico" tvg-logo="http://ceoapps.org/logos/autofantastico.png" group-title="TV | 24/7 Retro",24/7 El Auto Fantastico
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y9VVFEBf9bcPsnUTRo4Zf_
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkprknHTflZoqxS7Z20xdOn4
 #EXTINF:-1 xui-id="2090957" tvg-id="" tvg-name="24/7 El Gallo Claudio" tvg-logo="http://ceoapps.org/logos/galloflavio.png" group-title="TV | 24/7 Retro",24/7 El Gallo Claudio
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wpy8E_zlZU4gPqITQuWmaJ
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqBcq-pFxQtcQtjfBpbLzAI
 #EXTINF:-1 xui-id="2090958" tvg-id="" tvg-name="24/7 Fenomenoide" tvg-logo="http://ceoapps.org/logos/fernomenoide.png" group-title="TV | 24/7 Retro",24/7 Fenomenoide
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xk5_X7QbdIs7xQxn9RQwv8
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklS4XFfhRt24BTX47tYVUVc
 #EXTINF:-1 xui-id="223069" tvg-id="" tvg-name="24/7 Friends" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="TV | 24/7 Series",24/7 Friends
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioald-2KXrMjLb05f-ogTlwwqs_Ejuf53Ta-iwBE2k9t0
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktcMjfibXTpVuAUUO8t145w
 #EXTINF:-1 xui-id="2133344" tvg-id="" tvg-name="24/7 Game of Thrones" tvg-logo="http://ceoapps.org/logos/gameofthrones.png" group-title="TV | 24/7 Series",24/7 Game of Thrones
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4p2Rw_II3jaF2WmqYtyllO2
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpstzZoj5uxJqYeKIHr7Fwg
 #EXTINF:-1 xui-id="2090963" tvg-id="" tvg-name="24/7 Garfield" tvg-logo="http://ceoapps.org/logos/garfield.png" group-title="TV | 24/7 Retro",24/7 Garfield
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6w4ehp6xxyP7CFpjGp0o6_x
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkrBRZu1cjAsRjacUWoO71WQ
 #EXTINF:-1 xui-id="2090964" tvg-id="" tvg-name="24/7 Gargolas Heroes Goticos" tvg-logo="http://ceoapps.org/logos/gargolas.png" group-title="TV | 24/7 Retro",24/7 Gargolas Heroes Goticos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xX1jLofp5-WHHADy7Myq4v
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkl9JaDJv4wtUmj-c-dST0ew
 #EXTINF:-1 xui-id="2090965" tvg-id="" tvg-name="24/7 Gasparin y sus Amigos" tvg-logo="http://ceoapps.org/logos/gasparin.png" group-title="TV | 24/7 Retro",24/7 Gasparin y sus Amigos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y97J_bF4tmbvQfaZW1tvPg
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjHuC1nc2vzYE4Z8sb6kUfo
 #EXTINF:-1 xui-id="2090966" tvg-id="" tvg-name="24/7 Halcones Galacticos" tvg-logo="http://ceoapps.org/logos/halconesgalacticos.png" group-title="TV | 24/7 Retro",24/7 Halcones Galacticos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xcQOkQQBb4r4d3pHPOiSwi
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkutSyyRASMyyD7iHVwtg2cQ
 #EXTINF:-1 xui-id="2090904" tvg-id="" tvg-name="24/7 Hannah Montana" tvg-logo="http://ceoapps.org/logos/hannamontana.png" group-title="TV | 24/7 Infantil",24/7 Hannah Montana
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xAeiWI0QfBxgSpFm8w7UXB
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqcXHIEIaxKAk7Ekypm-cSE
 #EXTINF:-1 xui-id="2106722" tvg-id="" tvg-name="24/7 Harry Potter & Animales Fantásticos" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Harry Potter & Animales Fantásticos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD7HYmpsq73oifPeRo4nqnBr
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpSUePKxonGPLEPti_M5ckY
 #EXTINF:-1 xui-id="2090967" tvg-id="" tvg-name="24/7 Heidi" tvg-logo="http://ceoapps.org/logos/heidi.png" group-title="TV | 24/7 Retro",24/7 Heidi
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wMGCAeTrr7G9uMnUzAr_lf
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkgx64O4fKyUtj5zXqJxSlXo
 #EXTINF:-1 xui-id="2090983" tvg-id="" tvg-name="24/7 Hercules" tvg-logo="http://ceoapps.org/logos/hercules.png" group-title="TV | 24/7 Retro",24/7 Hercules
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yCwmYoixicB0h3uIuFtfnY
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqUedo__22QL8gX2IVcj-nA
 #EXTINF:-1 xui-id="2090905" tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="http://ceoapps.org/logos/heyarnold.png" group-title="TV | 24/7 Infantil",24/7 Hey Arnold
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zgWrGyaFAlNAnoD4nsXnbm
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjJqLXnP3AWiLVEt72PDwow
 #EXTINF:-1 xui-id="2133592" tvg-id="" tvg-name="24/7 Hormiga Atomica" tvg-logo="http://ceoapps.org/logos/hormigaatomica.png" group-title="TV | 24/7 Retro",24/7 Hormiga Atomica
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4pHTACF5rjyKI-rP-a_r4vz
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknVR0D2PBT8jzhl2ItT0oWA
 #EXTINF:-1 xui-id="2091492" tvg-id="" tvg-name="24/7 La casa de los Dibujos" tvg-logo="http://ceoapps.org/logos/casadedibujos.png" group-title="TV | 24/7 Series",24/7 La casa de los Dibujos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x_2BFE1lBc5PHMUmJFUJ6Y
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqHqvqAxKmiu0RDFXuBercU
 #EXTINF:-1 xui-id="2133346" tvg-id="" tvg-name="24/7 La Casa de Papel Corea" tvg-logo="http://ceoapps.org/logos/casadepapelcorea.png" group-title="TV | 24/7 Series",24/7 La Casa de Papel Corea
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4rfCtPgZrC5ny4fZdyxvG8I
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktesSrBqzhxnPMkbdg56dPk
 #EXTINF:-1 xui-id="200378" tvg-id="" tvg-name="24/7 La Familia P. Luche" tvg-logo="http://atlantis-mx.com/logos/familiapeluche24.png" group-title="TV | 24/7 Series",24/7 La Familia P. Luche
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioRpyIMOLmBb9TF5MAA559JDzPCnT0BuvI_abNCxSHnfI
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko57lw6yR7NrNdyacQ0oEaY
 #EXTINF:-1 xui-id="180593" tvg-id="" tvg-name="24/7 La Rosa de Guadalupe" tvg-logo="http://ceoapps.org/logos/rosa24.png" group-title="TV | 24/7 Series",24/7 La Rosa de Guadalupe
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioel1ZcURllf7hdGL2fL4zi1P1uG87i7YopJfL7xcisO2
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktmXJHVT9lRZiIzO91nAMa8
 #EXTINF:-1 xui-id="2090906" tvg-id="" tvg-name="24/7 Las Pistas de Blue" tvg-logo="http://ceoapps.org/logos/laspistasdeblue.png" group-title="TV | 24/7 Infantil",24/7 Las Pistas de Blue
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wueyiDqUsly3BgBA6RU5K9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmglbUFknxLL5GsyQlda-Kk
 #EXTINF:-1 xui-id="2090968" tvg-id="" tvg-name="24/7 Las Tortugas Ninja" tvg-logo="http://ceoapps.org/logos/tortugasninjas.png" group-title="TV | 24/7 Retro",24/7 Las Tortugas Ninja
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xDRQN3ZOW2ZKduyExkpLks
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkplcP9ErrUloQ4u34BzZgTY
 #EXTINF:-1 xui-id="2090984" tvg-id="" tvg-name="24/7 Los Años Maravillosos" tvg-logo="http://ceoapps.org/logos/anosmaravillosos.png" group-title="TV | 24/7 Retro",24/7 Los Años Maravillosos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xhAZvnwkwM60o0ZECikl8t
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm2S7qtluK1r4s8ilFX2JCI
 #EXTINF:-1 xui-id="2090907" tvg-id="" tvg-name="24/7 Los Backyardigans" tvg-logo="https://i.pinimg.com/originals/e9/b6/5b/e9b65bec1420b471a9f41a1f55eade18.png" group-title="TV | 24/7 Infantil",24/7 Los Backyardigans
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wj3uCsdXn4Y3Tv8aB3APCa
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgM1uojLje6JN3DEewL0wiI
 #EXTINF:-1 xui-id="2090908" tvg-id="" tvg-name="24/7 Los Castores Cascarrabias" tvg-logo="http://ceoapps.org/logos/castorescascarrabias.png" group-title="TV | 24/7 Infantil",24/7 Los Castores Cascarrabias
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zmOaNErH6Nnf-A_1FOGTEb
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkkx2ui2cSwcNaEZ-OSNiUNc
 #EXTINF:-1 xui-id="2090910" tvg-id="" tvg-name="24/7 Los Muppet Babys" tvg-logo="http://ceoapps.org/logos/muppetsbaby.png" group-title="TV | 24/7 Infantil",24/7 Los Muppet Babys
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xxBbdCUDK0npKtjG1VqGPR
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkrLXjLQRPqRGKAG4EnXJW5w
 #EXTINF:-1 xui-id="2090909" tvg-id="" tvg-name="24/7 Los Padrinos Magicos" tvg-logo="http://ceoapps.org/logos/padrinosmagicos.png" group-title="TV | 24/7 Infantil",24/7 Los Padrinos Magicos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zIKqIN3LusV-XL4f7ds2Xs
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiTxMPFCz9rMapDOvXzsMV0
 #EXTINF:-1 xui-id="2090990" tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="http://ceoapps.org/logos/supersonicos.png" group-title="TV | 24/7 Retro",24/7 Los Supersonicos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yPUJq2hHZhJaqVVQCR-73X
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkki5TZe_62Wd0WkqciH7HRYw
 #EXTINF:-1 xui-id="2090921" tvg-id="" tvg-name="24/7 MARVEL" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 MARVEL
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yB_vDqJQjy0YukPVt5l8ee
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmB8uCJI1iQSBYPPgqIn6UA
 #EXTINF:-1 xui-id="2133201" tvg-id="" tvg-name="24/7 Marvel Saga Infinito" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Marvel Saga Infinito
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4qD3LYhYLhWaN12eKjjwFZF
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko8bXjo_pck9CldJSaN6H20
 #EXTINF:-1 xui-id="2090911" tvg-id="" tvg-name="24/7 Mi Pequeño Pony" tvg-logo="http://ceoapps.org/logos/mipequenopony.png" group-title="TV | 24/7 Infantil",24/7 Mi Pequeño Pony
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x-_TTzBiI6qsw8HgJniwzl
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm9THeiaHUYkqaf0uf68f_c
 #EXTINF:-1 xui-id="2090941" tvg-id="" tvg-name="24/7 Movies Jim Carrey" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 Movies Jim Carrey
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y5Uvaez45DRoIXD-uaJPM5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklZzVasaGvA-0yszuHsApBE
 #EXTINF:-1 xui-id="210808" tvg-id="" tvg-name="24/7 M| Cinema 01" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 01
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5jwY8FpiMlertV3eHODPk2
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksfPlME30AsBPBXuQlOKFho
 #EXTINF:-1 xui-id="210809" tvg-id="" tvg-name="24/7 M| Cinema 02" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 02
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD408gtZCtSCmtQvfmazNtCR
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklyP3YYbAzac5Ydch6aVbPU
 #EXTINF:-1 xui-id="210810" tvg-id="" tvg-name="24/7 M| Cinema 03" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 03
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5ZMKKZgbplZKY1VVDByGiX
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkoOujD79CQ5fIRAM-C9oLGk
 #EXTINF:-1 xui-id="210812" tvg-id="" tvg-name="24/7 M| Cinema 05" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 05
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD6SIwWSHa7P1r2fDfSi6ZG7
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm3XRtiB3ZF61spHFSZhlLM
 #EXTINF:-1 xui-id="210813" tvg-id="" tvg-name="24/7 M| Cinema 06" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 06
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4EHa6pl1Gw9nslXwA8DLeg
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktW0Vb4m3GnKxo7wYauNzZY
 #EXTINF:-1 xui-id="210814" tvg-id="" tvg-name="24/7 M| Cinema 07" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 07
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4yn6GNz8GrUihU8F3sLVYT
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkvgswu-i6hNJ02rqjpVBWpc
 #EXTINF:-1 xui-id="210815" tvg-id="" tvg-name="24/7 M| Cinema 08" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 08
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4O3qrlOBpdiPV85d4MtlWa
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknY0O38mn7cuTihwh6Zje10
 #EXTINF:-1 xui-id="210816" tvg-id="" tvg-name="24/7 M| Cinema 09" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 09
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD6Jrd8nVzvtXKwnPOESoOX7
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkks2cw2SLPP_4RmjAH8kEO3A
 #EXTINF:-1 xui-id="210817" tvg-id="" tvg-name="24/7 M| Cinema 10" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 10
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD7EtpM-tupujt3yUWnPPVQ9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksKqf68nnlXnIzc5Al88QwM
 #EXTINF:-1 xui-id="210818" tvg-id="" tvg-name="24/7 M| Cinema 11" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 11
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5gxSydI2PgUG1LFgr6DdOF
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkksf4csQDNnJb-8LwPGDFzZk
 #EXTINF:-1 xui-id="210819" tvg-id="" tvg-name="24/7 M| Cinema 12" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 12
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD6XvLzEKnfh1eB97P0TaL_W
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkt7IPkGHUrclNIAKT2SMr84
 #EXTINF:-1 xui-id="210820" tvg-id="" tvg-name="24/7 M| Cinema 13" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 13
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD53CqjIaKWjNpEKViPYAZOT
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkttM9kZM6gc5HiH_i8_IM_E
 #EXTINF:-1 xui-id="210821" tvg-id="" tvg-name="24/7 M| Cinema 14" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 14
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD758mLoNPX40-s53eZX6z4a
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkedUys-YhxpGRpOhrIvWm8
 #EXTINF:-1 xui-id="210822" tvg-id="" tvg-name="24/7 M| Cinema 15" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 15
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD6ejvwap0DXY8rHo7dj5jPG
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknufUCsr9B0D6L4duGfzphY
 #EXTINF:-1 xui-id="210823" tvg-id="" tvg-name="24/7 M| Cinema 16" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 16
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4_6e_--fnjUJLoPhujeJQq
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm11FxNNP0b-ZzUkjUUF2mc
 #EXTINF:-1 xui-id="210824" tvg-id="" tvg-name="24/7 M| Cinema 17" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 17
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD7d68lsqVtem1FPSxuPe9ch
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkr3lmcNgCv1bD5Vzu687a4c
 #EXTINF:-1 xui-id="210825" tvg-id="" tvg-name="24/7 M| Cinema 18" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 18
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5FvOBb8XhDsVSVqmMktB2u
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkJEstomecIUbNnZbKPch64
 #EXTINF:-1 xui-id="210826" tvg-id="" tvg-name="24/7 M| Cinema 19" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 19
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD73FY1n-l0YpbNNRGDfqo2f
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksXsmJmPvgzv8xhPyjdXKqs
 #EXTINF:-1 xui-id="210827" tvg-id="" tvg-name="24/7 M| Cinema 20" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 20
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4hto0DDVjofYZ5ZqQpA5rC
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhOyCMFyH6TuTHsHtTsDf5I
 #EXTINF:-1 xui-id="210828" tvg-id="" tvg-name="24/7 M| Cinema 21" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 21
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD68zbfuQ5M7FOCY2STfWK40
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkksep4PtsKZg5XLJxjVV6Dxw
 #EXTINF:-1 xui-id="210829" tvg-id="" tvg-name="24/7 M| Cinema 22" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 22
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD4raWmU8BH8V1RUK7ErVoe6
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhnM4VHmM4Etx9P9CaBz0YE
 #EXTINF:-1 xui-id="210830" tvg-id="" tvg-name="24/7 M| Cinema 23" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 23
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5-DaL-9Q96pmwemqyBBePe
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmATQY9zwRWBpqTt-hE4LmY
 #EXTINF:-1 xui-id="210831" tvg-id="" tvg-name="24/7 M| Cinema 24" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 24
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD6CMm1vM7Vxc_WDGHC0rfMe
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkre92UUd4itERHIwMrayJoE
 #EXTINF:-1 xui-id="210832" tvg-id="" tvg-name="24/7 M| Cinema 25" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 25
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiofrxkwb-BIHPOcPLS7hJqD5UDtt86RWyiUldnUNETttN
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm84X-MuZoEwmhKC8YueeCI
 #EXTINF:-1 xui-id="186335" tvg-id="" tvg-name="24/7 M|Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M|Moviecenter Premium Oeste ⁽ᴴᴰ⁾
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioQo4onlcd1Z7XvtJhGgeCc4a-ibgd2EzTt50q6ko1wC1
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkrTv6gmLuxdAUgn-fgLeUGk
 #EXTINF:-1 xui-id="177987" tvg-id="" tvg-name="24/7 M|Peliculas Marvel" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M|Peliculas Marvel
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioY-OKVc1liXYJN_-UUlUe7dusk3Ma4K86X4Yel_yX0nS
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkgr_AyuTf50xE_4nvJeRwtM
 #EXTINF:-1 xui-id="203983" tvg-id="" tvg-name="24/7 M|Películas Drama" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M|Películas Drama
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioaZrxFQLg92hdOQjQbMuP2eNrivWU6SAE4PuzUIJ0pXY
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkucPns9cxAQRFz_WbopQscc
 #EXTINF:-1 xui-id="203984" tvg-id="" tvg-name="24/7 M|Películas Fantasía" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 M|Películas Fantasía
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioaZrxFQLg92hdOQjQbMuP2dzpcdfjBFu39c5lkMc9fNC
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgpGaYCxnWdkcPT6lhrR8Sc
 #EXTINF:-1 xui-id="2090920" tvg-id="" tvg-name="24/7 NARCOS" tvg-logo="http://ceoapps.org/logos/narcos24.png" group-title="TV | 24/7 Series",24/7 NARCOS
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zDMX8YTSODTt8vIHpA9qh9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkvAeBl23OB7S3ILl5mk-f6E
 #EXTINF:-1 xui-id="2091023" tvg-id="" tvg-name="24/7 Padre de familia" tvg-logo="http://ceoapps.org/logos/familyguy.png" group-title="TV | 24/7 Series",24/7 Padre de familia
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zlbmnzCnojiIOo0_OrLtDb
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkklla7Q5_PgIKdP0b5LjQkf4
 #EXTINF:-1 xui-id="2090912" tvg-id="" tvg-name="24/7 Paw Patroll" tvg-logo="http://ceoapps.org/logos/pawpatrol.png" group-title="TV | 24/7 Infantil",24/7 Paw Patroll
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yvRSrmJuLfu7xKppJWO2VS
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqARtByOzlQ7J0Du9SnLxBg
 #EXTINF:-1 xui-id="2133347" tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2022" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 PELICULAS ESTRENOS 2022
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4p1PO0Dp3QS6WQZRxSytK0n
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjLdKanwu9TKl_QsTEUxWnM
 #EXTINF:-1 xui-id="2090913" tvg-id="" tvg-name="24/7 Pocoyo" tvg-logo="http://ceoapps.org/logos/pocoyo.png" group-title="TV | 24/7 Infantil",24/7 Pocoyo
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xf5VctCE33apJBG23vzDxo
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksPy2sW7ALPYsbdDAsKSqzI
 #EXTINF:-1 xui-id="2090914" tvg-id="" tvg-name="24/7 Scooby Doo" tvg-logo="http://ceoapps.org/logos/scoobydoo.png" group-title="TV | 24/7 Infantil",24/7 Scooby Doo
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y50mxbE7DPuNaVSdntgG2v
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknX-nP2tAFWoyuOLfz1J410
 #EXTINF:-1 xui-id="2133765" tvg-id="" tvg-name="24/7 Shark Thank" tvg-logo="http://ceoapps.org/logos/sharktank.png" group-title="TV | 24/7 Series",24/7 Shark Thank
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4ot2U_vcukrd8AknR4soIgt
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkiwr4-wICdbSFbc72P_Ia5o
 #EXTINF:-1 xui-id="2133394" tvg-id="" tvg-name="24/7 Super Agente 86" tvg-logo="http://ceoapps.org/logos/superagente86.png" group-title="TV | 24/7 Series",24/7 Super Agente 86
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4qXQiUzOW69hnEjR4MFSDQH
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkkdlr6sFr3Vt4eD73AQ1oz0
 #EXTINF:-1 xui-id="203977" tvg-id="" tvg-name="24/7 S| Alerta Aeropuerto" tvg-logo="http://ceoapps.org/logos/alerta.png" group-title="TV | 24/7 Series",24/7 S| Alerta Aeropuerto
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioaZrxFQLg92hdOQjQbMuP2dF_nnZ_GEkeucRl5TSETI8
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpMPXT3pITCnKLx6Z3pafIA
 #EXTINF:-1 xui-id="2133349" tvg-id="" tvg-name="24/7 The Flash" tvg-logo="http://ceoapps.org/logos/flash.png" group-title="TV | 24/7 Series",24/7 The Flash
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4pkziAQwvSso7TWnWLKbPPL
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksacJJHXl6ViIT0kG3c2p3g
 #EXTINF:-1 xui-id="2090916" tvg-id="" tvg-name="24/7 Timon y Pumbaa" tvg-logo="http://ceoapps.org/logos/timonypumba.png" group-title="TV | 24/7 Infantil",24/7 Timon y Pumbaa
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xwyaMkd7YNjlKW9YCngvqf
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkJXJctlkgw4qq2ZLUFAfqI
 #EXTINF:-1 xui-id="2131773" tvg-id="" tvg-name="24/7 Tiroloco" tvg-logo="http://ceoapps.org/logos/tiroloco3.png" group-title="TV | 24/7 Retro",24/7 Tiroloco
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioTPHuBkuPdll3Fm6sruoi4pycjjBkL0cH6U6eHIJciKe
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknvHgjDMZvjSWT5GQ576D8I
 #EXTINF:-1 xui-id="2090915" tvg-id="" tvg-name="24/7 Tom Y Jerry" tvg-logo="http://ceoapps.org/logos/tomyjerry.png" group-title="TV | 24/7 Infantil",24/7 Tom Y Jerry
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x_UcK06RW0cb368J0QjIv4
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkki2zRhV3p1eA4B8NAN55EyU
 #EXTINF:-1 xui-id="189870" tvg-id="" tvg-name="24/7 Vecinos" tvg-logo="http://atlantis-mx.com/logos/vecinos24.png" group-title="TV | 24/7 Series",24/7 Vecinos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIioVzKK8uPy4iQMF1gR77_n-tPvWmlod6sbvH5fZz5zM4R
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko9L4FIWtwGh72PGKao9a3o
 #EXTINF:-1 xui-id="2090985" tvg-id="" tvg-name="24/7 Walker Texas Ranger" tvg-logo="http://ceoapps.org/logos/walkertexas.png" group-title="TV | 24/7 Retro",24/7 Walker Texas Ranger
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zvH_9V4HLggLE_f9DTpdQv
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkuws0V9vmGHjkm67flay8LU
 #EXTINF:-1 xui-id="2090986" tvg-id="" tvg-name="24/7 Xena La Princesa Guerrera" tvg-logo="http://ceoapps.org/logos/xena.png" group-title="TV | 24/7 Retro",24/7 Xena La Princesa Guerrera
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xSeWPumhCytZTrhWzxBU8a
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkisD1BLNdeg2nJOjMV1ZV3I
 #EXTINF:-1 xui-id="2090870" tvg-id="" tvg-name="24/7 | Aaahhh Monstruos" tvg-logo="http://l3d.us:25461/images/b2f5ff47436671b6e533d8dc3614845d.png" group-title="TV | 24/7 Retro",24/7 | Aaahhh Monstruos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zdXbDmORw9pe_FxcsR2i8k
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkoC11rJJAQuaN-DqCDeKs-c
+#EXTINF:-1 xui-id="2090991" tvg-id="" tvg-name="24/7 | Acapulco Shore FHD" tvg-logo="http://atlantis-mx.com/logos/acapulco24.png" group-title="TV | 24/7 Series",24/7 | Acapulco Shore FHD
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkssxPV30vtHSUCjQsi6sNg
 #EXTINF:-1 xui-id="2090973" tvg-id="" tvg-name="24/7 | Alf" tvg-logo="http://ceoapps.org/logos/alf.png" group-title="TV | 24/7 Retro",24/7 | Alf
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zylFhI6RwTUhxdsBwEZ6WX
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqfL-AXMr9MlsEi1odg_sDw
 #EXTINF:-1 xui-id="2090871" tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="http://ceoapps.org/logos/animaniacs.png" group-title="TV | 24/7 Infantil",24/7 | Animaniacs
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xKG9ck9n1Rr94-EyEZ7u2G
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpUBT4AqllB_bJN-wleon6U
 #EXTINF:-1 xui-id="2090872" tvg-id="" tvg-name="24/7 | Bleyblade" tvg-logo="http://ceoapps.org/logos/blaybley.png" group-title="TV | 24/7 Infantil",24/7 | Bleyblade
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6w-uiqI8FCVPYuVZxAe4SKg
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkrCM15jTpzCVEXMZZgyxeS4
 #EXTINF:-1 xui-id="2090873" tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="http://ceoapps.org/logos/bobesponja.png" group-title="TV | 24/7 Infantil",24/7 | Bob Esponja
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wPvfz1CAUiEzI5kekZopQg
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiImnYVbIqE9k6ekf8Huh1Q
 #EXTINF:-1 xui-id="2090874" tvg-id="" tvg-name="24/7 | Buzz Lightyear" tvg-logo="http://ceoapps.org/logos/comandoestelar.png" group-title="TV | 24/7 Infantil",24/7 | Buzz Lightyear
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yjwzmaslFk3drPcfcFSngU
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgUBW-IKQUDJE07zDkNVTNk
 #EXTINF:-1 xui-id="2090875" tvg-id="" tvg-name="24/7 | Castores Cascarravias" tvg-logo="http://ceoapps.org/logos/castorescascarrabias.png" group-title="TV | 24/7 Infantil",24/7 | Castores Cascarravias
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xHVU6OMXSsPCXYHM0ateUa
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkqp6xEGygkb6U1Dc49pzX8U
 #EXTINF:-1 xui-id="2090876" tvg-id="" tvg-name="24/7 | Cat Dog" tvg-logo="http://ceoapps.org/logos/catdog.png" group-title="TV | 24/7 Infantil",24/7 | Cat Dog
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y32A4jhjrYYQpmu4pQY6uH
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiBpOJKgb1_k8yR_k3EGmxY
 #EXTINF:-1 xui-id="2090993" tvg-id="" tvg-name="24/7 | Como Dice El Dicho" tvg-logo="http://atlantis-mx.com/logos/dicho24.png" group-title="TV | 24/7 Series",24/7 | Como Dice El Dicho
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wAqonDmo5Oexi9uk6rbsIQ
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjWcYUzeaUzDu6VHbp3Qyvk
 #EXTINF:-1 xui-id="2090877" tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="http://ceoapps.org/logos/corajeelperrocobarde.png" group-title="TV | 24/7 Infantil",24/7 | Coraje El Perro Cobarde
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yiswu2fNoyVJN9AtxjH-ch
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmOagXxPezAqOdV8D2TjTZs
 #EXTINF:-1 xui-id="2090994" tvg-id="" tvg-name="24/7 | CSI Miami" tvg-logo="http://atlantis-mx.com/logos/csi24.png" group-title="TV | 24/7 Series",24/7 | CSI Miami
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wbGJ2iCg-8aH3OK1c4aOig
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkldf_y6mC56oVX23-1c3sdk
 #EXTINF:-1 xui-id="2090995" tvg-id="" tvg-name="24/7 | Death Note" tvg-logo="http://atlantis-mx.com/logos/death24.png" group-title="TV | 24/7 Series",24/7 | Death Note
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z3pwq5HzGncdz6O58Qt60w
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksxYhZxRG7av1zS9VGY8iMc
 #EXTINF:-1 xui-id="2090992" tvg-id="" tvg-name="24/7 | Desafío de fuego" tvg-logo="http://atlantis-mx.com/logos/desafio24.png" group-title="TV | 24/7 Series",24/7 | Desafío de fuego
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yKDJHdxu8tOQMGnLTVVqrt
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjJmgY7beyhz1Z2YnKEGXLQ
 #EXTINF:-1 xui-id="2090996" tvg-id="" tvg-name="24/7 | DesEncanto" tvg-logo="http://atlantis-mx.com/logos/desencanto24.png" group-title="TV | 24/7 Series",24/7 | DesEncanto
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xAZx-2m9D0kOhBM_V59etI
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko3btI9vC4UaUivSFueETFA
 #EXTINF:-1 xui-id="2090878" tvg-id="" tvg-name="24/7 | Digimon" tvg-logo="http://ceoapps.org/logos/digimon.png" group-title="TV | 24/7 Infantil",24/7 | Digimon
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6ycqNOKnli-Qv74DtsOfDG6
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiRS5Mx3QRx_PpBQhLht70k
 #EXTINF:-1 xui-id="2090879" tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="http://ceoapps.org/logos/dinosaurios.png" group-title="TV | 24/7 Retro",24/7 | Dinosaurios
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wuD5ueX2D45yxge6zOTwJI
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkr_k5qjp5wHzbkXC8HUrGV8
 #EXTINF:-1 xui-id="2090953" tvg-id="" tvg-name="24/7 | DON GATO Y SU PANDILLA" tvg-logo="http://ceoapps.org/logos/dongatoysupandilla.png" group-title="TV | 24/7 Retro",24/7 | DON GATO Y SU PANDILLA
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x7DxyNEEeO4Jqi2-9ybkts
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknLn1j6jeYEOlgMatAYQCzE
 #EXTINF:-1 xui-id="2090880" tvg-id="" tvg-name="24/7 | Dora la Exploradora" tvg-logo="http://ceoapps.org/logos/dora.png" group-title="TV | 24/7 Infantil",24/7 | Dora la Exploradora
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xuCxyzHIsjpJSbti49ods2
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkq3GqQuRqAHKvFB5b9leqTs
 #EXTINF:-1 xui-id="2090997" tvg-id="" tvg-name="24/7 | Dr. House" tvg-logo="http://atlantis-mx.com/logos/drhouse24.png" group-title="TV | 24/7 Series",24/7 | Dr. House
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6w_4TmTATjsD2_3w3ZRoeix
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkl2UWYdLoJouoNkVqMYL7yc
 #EXTINF:-1 xui-id="2090998" tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="http://atlantis-mx.com/logos/dragonball24.png" group-title="TV | 24/7 Series",24/7 | Dragon Ball
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yNATyzQ1cP6uWtSm3SVmKx
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkknh3cKXNWH_32bmf_1L63-I
 #EXTINF:-1 xui-id="2090999" tvg-id="" tvg-name="24/7 | Dragon Ball Super 1" tvg-logo="http://atlantis-mx.com/logos/dragonsuper242.png" group-title="TV | 24/7 Series",24/7 | Dragon Ball Super 1
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xjr-pa1FQS6xBGLeOx9ma5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksEnUF1n02KwVyBgvz4s0B8
 #EXTINF:-1 xui-id="2091000" tvg-id="" tvg-name="24/7 | Dragon Ball Super 2" tvg-logo="http://atlantis-mx.com/logos/dragonsuper24.png" group-title="TV | 24/7 Series",24/7 | Dragon Ball Super 2
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xm2oeRAg9O2DKNOOQeNIh5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkp15byqESXr_vGBazfPvJM4
 #EXTINF:-1 xui-id="2091001" tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Cell" tvg-logo="http://atlantis-mx.com/logos/dragoncell.png" group-title="TV | 24/7 Series",24/7 | Dragon Ball Z Saga Cell
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y4s6K5DNCUvt2iuW27G-ar
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkku88WZpiBDRvVaQ5wtQ4RRM
 #EXTINF:-1 xui-id="2090974" tvg-id="" tvg-name="24/7 | El Chapulin Colorado" tvg-logo="http://ceoapps.org/logos/chapulincolorado.png" group-title="TV | 24/7 Retro",24/7 | El Chapulin Colorado
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zHY7Z3udAx5y0fEMSu4Mw5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhWx3cF34anJ1ALfB48IYek
 #EXTINF:-1 xui-id="2090881" tvg-id="" tvg-name="24/7 | El Chavo Animado" tvg-logo="http://ceoapps.org/logos/elchavoanimado2.png" group-title="TV | 24/7 Infantil",24/7 | El Chavo Animado
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x70LzCzqqCC7k-Vf-pOt6m
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjklI6JdVq0Rh0noIpTlnnc
 #EXTINF:-1 xui-id="2090975" tvg-id="" tvg-name="24/7 | El Chavo del 8" tvg-logo="http://ceoapps.org/logos/elchavo8.png" group-title="TV | 24/7 Retro",24/7 | El Chavo del 8
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zQbe_DbuHlWFpSFE3RDjh5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkv4Wjn5lVLjn2m-Cypmar0g
 #EXTINF:-1 xui-id="2090952" tvg-id="" tvg-name="24/7 | El Coyote y el Correcaminos" tvg-logo="http://ceoapps.org/logos/coyoteycorrecaminos.png" group-title="TV | 24/7 Retro",24/7 | El Coyote y el Correcaminos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x0pAQftxcNzwPspm0kE8CR
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkuA6Nb_1AmlyIDwyoE5c_Lo
 #EXTINF:-1 xui-id="2090882" tvg-id="" tvg-name="24/7 | El Laboratorio de Dexter" tvg-logo="http://ceoapps.org/logos/laboratoriodedexter.png" group-title="TV | 24/7 Infantil",24/7 | El Laboratorio de Dexter
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xFu4UFFYQx-UPqm92z60Hk
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklY6Mxx_rdhbdlQ35wJ9iDQ
 #EXTINF:-1 xui-id="2091002" tvg-id="" tvg-name="24/7 | El Mentalista" tvg-logo="http://atlantis-mx.com/logos/mentalista24.png" group-title="TV | 24/7 Series",24/7 | El Mentalista
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xaNWLERWKz1AO2IWlIx98o
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkht_WBTTKd2k2Ftb3BFFOLw
 #EXTINF:-1 xui-id="2090883" tvg-id="" tvg-name="24/7 | El Mundo de Beakman" tvg-logo="http://ceoapps.org/logos/elmundobeakmans.png" group-title="TV | 24/7 Infantil",24/7 | El Mundo de Beakman
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wu-yZzV-KHn_4FMk2aYzmz
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkqtYiAS-2-2HAmp02IzV2kU
 #EXTINF:-1 xui-id="2090884" tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="http://ceoapps.org/logos/pajaroloco.png" group-title="TV | 24/7 Infantil",24/7 | El Pajaro Loco
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wRxRNE_Pd8_y_p6nhHdHB5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknFZMthSq4LTfHV43ZYjSDs
 #EXTINF:-1 xui-id="2091003" tvg-id="" tvg-name="24/7 | El Principe del Rap" tvg-logo="http://atlantis-mx.com/logos/principe24.png" group-title="TV | 24/7 Series",24/7 | El Principe del Rap
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yoyfRz8hEFnxX4_yMqvMgF
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmRC5hmJ-rfK8DlO2oI-x7Q
 #EXTINF:-1 xui-id="2090899" tvg-id="" tvg-name="24/7 | El show de los Looney Tunes" tvg-logo="http://ceoapps.org/logos/elshowdeloslooneytoons.png" group-title="TV | 24/7 Infantil",24/7 | El show de los Looney Tunes
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wOxmMYzX5bHhT4VPKMqnRf
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkvUSwiTJPoDzs3sY6cQg_h8
 #EXTINF:-1 xui-id="2090885" tvg-id="" tvg-name="24/7 | En Familia con Chabelo" tvg-logo="http://ceoapps.org/logos/enfamiliaconchabelo.png" group-title="TV | 24/7 Infantil",24/7 | En Familia con Chabelo
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6w65xtJ_O9n18gew4zD92D5
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkknb697QZd56JAGb13lFijHQ
 #EXTINF:-1 xui-id="2090886" tvg-id="" tvg-name="24/7 | Escandalosos" tvg-logo="http://ceoapps.org/logos/escandalosos.png" group-title="TV | 24/7 Infantil",24/7 | Escandalosos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wRue4V--m5GzTtdtKTqubK
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjDkxv_dFdh5qbMvGvHp5Zc
 #EXTINF:-1 xui-id="2091004" tvg-id="" tvg-name="24/7 | Escobar: el patron del mal" tvg-logo="http://ceoapps.org/logos/patrondelmal.png" group-title="TV | 24/7 Series",24/7 | Escobar: el patron del mal
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xlB4-Zj1nXc5uzQpu7uiBn
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktKYGnV4-JRUqlKrFEKjeDU
 #EXTINF:-1 xui-id="2091005" tvg-id="" tvg-name="24/7 | Extranormal" tvg-logo="http://atlantis-mx.com/logos/extranormal24.png" group-title="TV | 24/7 Series",24/7 | Extranormal
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xBfFjqCG4Zq_2PuvVmqSh7
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpkY3peeqc15nz21vlidSEQ
 #EXTINF:-1 xui-id="2091006" tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="http://atlantis-mx.com/logos/futurama24.png" group-title="TV | 24/7 Series",24/7 | Futurama
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z7imGHx3Gt6IKFZLvmLG8Y
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkrac7MDTMjbv9B6m4kBTBzw
 #EXTINF:-1 xui-id="2090903" tvg-id="" tvg-name="24/7 | GRAVITY FALL" tvg-logo="http://ceoapps.org/logos/gravityfalls.png" group-title="TV | 24/7 Infantil",24/7 | GRAVITY FALL
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yEe-tH9tS-ngn5wDrheHHk
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkocpNvKA2A9v91xd-JYNKOs
 #EXTINF:-1 xui-id="2090976" tvg-id="" tvg-name="24/7 | Hechizada" tvg-logo="http://ceoapps.org/logos/hechizada.png" group-title="TV | 24/7 Retro",24/7 | Hechizada
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wKilcZWqU_Yn-UCw-xqN-L
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkki4isbrahKHHKqh1-7pxXlY
 #EXTINF:-1 xui-id="2090887" tvg-id="" tvg-name="24/7 | Jimmy Neutron" tvg-logo="http://ceoapps.org/logos/jimmyneutron.png" group-title="TV | 24/7 Infantil",24/7 | Jimmy Neutron
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xAj28lzRr_d1hJ4PmnabJ9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpnlcKcn-HAAJqO-hmr0yx4
 #EXTINF:-1 xui-id="2090888" tvg-id="" tvg-name="24/7 | Johnny Bravo" tvg-logo="http://ceoapps.org/logos/jhonybravo.png" group-title="TV | 24/7 Infantil",24/7 | Johnny Bravo
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yqsClq9ybstTX75m2YdRdV
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjJbpBOiwc8qdPrmfzv5mZE
 #EXTINF:-1 xui-id="2091008" tvg-id="" tvg-name="24/7 | Juego del Calamar" tvg-logo="http://atlantis-mx.com/logos/calamar.png" group-title="TV | 24/7 Series",24/7 | Juego del Calamar
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zDyHyAia7GmZO-ShJa1uW3
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkki5jVUtaVSECqR_ZBdDFKbM
 #EXTINF:-1 xui-id="2090889" tvg-id="" tvg-name="24/7 | La Casa de Micky Mouse" tvg-logo="http://ceoapps.org/logos/lacasademickeymouse.png" group-title="TV | 24/7 Infantil",24/7 | La Casa de Micky Mouse
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wX-IkwhGdidEO2LXdzRBR6
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksdfJXoXGjRd9Z4810ns6Ng
 #EXTINF:-1 xui-id="2091009" tvg-id="" tvg-name="24/7 | La Casa de Papel" tvg-logo="http://atlantis-mx.com/logos/casapapel24.png" group-title="TV | 24/7 Series",24/7 | La Casa de Papel
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zOh02pqNBAmVrmTdP1Haca
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpsUu7o3S5DqVri3e7U5gQg
 #EXTINF:-1 xui-id="2091010" tvg-id="" tvg-name="24/7 | La Familia Peluche" tvg-logo="http://atlantis-mx.com/logos/familiapeluche24.png" group-title="TV | 24/7 Series",24/7 | La Familia Peluche
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x7CQb-XTXG86oMzE7sffrn
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkr8Pv4vVKBqNGGgQpaNOeII
 #EXTINF:-1 xui-id="2091011" tvg-id="" tvg-name="24/7 | La Hora Pico" tvg-logo="http://atlantis-mx.com/logos/horapico24.png" group-title="TV | 24/7 Series",24/7 | La Hora Pico
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y_YTtCL943IcowwFLfreVm
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkv7QgweGtuXOKB9GBOtGqN4
 #EXTINF:-1 xui-id="2090977" tvg-id="" tvg-name="24/7 | La Ninera" tvg-logo="http://ceoapps.org/logos/laninera.png" group-title="TV | 24/7 Retro",24/7 | La Ninera
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xpy4V1SsVtLqhWbw5oZ3Nt
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknKSfndgDxHpO55hxdi6mss
 #EXTINF:-1 xui-id="2090971" tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="http://ceoapps.org/logos/panterarosa.png" group-title="TV | 24/7 Retro",24/7 | La Pantera Rosa
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xjYpWk9Cu3gBN0747D5Vha
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklrFgLYa-yFkZzpR9La0B7E
 #EXTINF:-1 xui-id="2091012" tvg-id="" tvg-name="24/7 | La Rosa de Guadalupe" tvg-logo="http://ceoapps.org/logos/rosa24.png" group-title="TV | 24/7 Series",24/7 | La Rosa de Guadalupe
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xVwOd5upn0WuZmrBdle65l
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiHfHG9RLq8YIual4HCDuqQ
 #EXTINF:-1 xui-id="2090890" tvg-id="" tvg-name="24/7 | Ladybug" tvg-logo="http://ceoapps.org/logos/ladybug.png" group-title="TV | 24/7 Infantil",24/7 | Ladybug
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x0wS8yDnyqSJ8Vc1CP-6e9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiDVoMtnBuulW3XWhT7iakc
 #EXTINF:-1 xui-id="2090972" tvg-id="" tvg-name="24/7 | Le Temes a la Oscuridad" tvg-logo="http://ceoapps.org/logos/letemesalaoscuridad.png" group-title="TV | 24/7 Retro",24/7 | Le Temes a la Oscuridad
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xlEk1aDjESlpQS5pDHNyxm
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkks5y8b3CgaiEjFXynV6UVT0
 #EXTINF:-1 xui-id="2090891" tvg-id="" tvg-name="24/7 | Los Gatos Samurai" tvg-logo="http://ceoapps.org/logos/gatossamuray.png" group-title="TV | 24/7 Infantil",24/7 | Los Gatos Samurai
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yKF220qMAhX4B_ehtTe5qW
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko8h5XJOpOQKfoIuchmBFpU
 #EXTINF:-1 xui-id="2090989" tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="http://ceoapps.org/logos/picapiedras.png" group-title="TV | 24/7 Retro",24/7 | Los Picapiedra
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zYnaL7Ul5pDwCayU3RI-Ht
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkpdcKOBHvV12IkWaI1E-5rQ
 #EXTINF:-1 xui-id="2091013" tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="http://atlantis-mx.com/logos/simpson24.png" group-title="TV | 24/7 Series",24/7 | Los Simpson
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xYuqNXdO_OUqfskwR_sxGr
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkvb_F18sFygUXmPixak74Ss
 #EXTINF:-1 xui-id="2091014" tvg-id="" tvg-name="24/7 | Los Simpson HD" tvg-logo="http://atlantis-mx.com/logos/simpson24.png" group-title="TV | 24/7 Series",24/7 | Los Simpson HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xfaadRy2B9kf7xq7_O61OF
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkv6DECIz3Far2nvyeM1AEnI
 #EXTINF:-1 xui-id="2091015" tvg-id="" tvg-name="24/7 | Los Simpson New HD" tvg-logo="http://atlantis-mx.com/logos/simpson24.png" group-title="TV | 24/7 Series",24/7 | Los Simpson New HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xpIT-lgU95fKekPj8nJ9n1
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkvuDOJ4mHJGY7tK8sTqifbo
 #EXTINF:-1 xui-id="2091016" tvg-id="" tvg-name="24/7 | Los Simpsons Casitas del Horror" tvg-logo="http://atlantis-mx.com/logos/simpsonscasita.png" group-title="TV | 24/7 Series",24/7 | Los Simpsons Casitas del Horror
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wkKCD78nddH2sfHUq61s6r
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkku6EZct86i7ub7K0cPS7sMI
 #EXTINF:-1 xui-id="2090987" tvg-id="" tvg-name="24/7 | Los Thundercats" tvg-logo="http://ceoapps.org/logos/tundercats.png" group-title="TV | 24/7 Retro",24/7 | Los Thundercats
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z4B7cxsSLtMNfCKBk-TBlv
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkjlprZZr-i_2BaTDofzRK50
 #EXTINF:-1 xui-id="2091359" tvg-id="" tvg-name="24/7 | MASHA Y EL OSO" tvg-logo="http://ceoapps.org/logos/mashayeloso.png" group-title="TV | 24/7 Infantil",24/7 | MASHA Y EL OSO
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wPN3gIg9pxgpMGwyZjpoNp
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktyA_EIFIEL6fqnzU9PH0-w
 #EXTINF:-1 xui-id="2090988" tvg-id="" tvg-name="24/7 | Mr Bean" tvg-logo="http://ceoapps.org/logos/mrbean.png" group-title="TV | 24/7 Retro",24/7 | Mr Bean
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z01LN1zKwKJvKkYimZc5Y4
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiJX0HOYuvuuTKnn1N_5ABQ
 #EXTINF:-1 xui-id="2090892" tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="http://ceoapps.org/logos/pepapig.png" group-title="TV | 24/7 Infantil",24/7 | Peppa Pig
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6x41gFjxSUqv-5_Oh9xCHO7
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko_vNqKcw9r67tkLzeZFDJU
 #EXTINF:-1 xui-id="2090893" tvg-id="" tvg-name="24/7 | Phineas y Ferb" tvg-logo="http://ceoapps.org/logos/phineasyperh.png" group-title="TV | 24/7 Infantil",24/7 | Phineas y Ferb
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xAmQGTRc9UP_2FpTjQS74B
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgCKaK0qTYhs3qmq3ETTYj8
 #EXTINF:-1 xui-id="2090894" tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="http://ceoapps.org/logos/pokemon.png" group-title="TV | 24/7 Infantil",24/7 | Pokemon
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yL-6t0szvHZzdsXctyyGcV
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmIuc9IKmgQK0XfWgn43Rc4
 #EXTINF:-1 xui-id="2090895" tvg-id="" tvg-name="24/7 | Power Rangers" tvg-logo="http://ceoapps.org/logos/powerangers2.png" group-title="TV | 24/7 Infantil",24/7 | Power Rangers
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zDsVoH04IDe3GV8IkZRos_
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmeBNVTQAc1Maqnx4pHRMaY
 #EXTINF:-1 xui-id="2091020" tvg-id="" tvg-name="24/7 | Rick y Morty" tvg-logo="http://atlantis-mx.com/logos/rickymorty24.png" group-title="TV | 24/7 Series",24/7 | Rick y Morty
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zuRXw5d1C93A8cjv3jf5FV
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkl9GyRgig6oJIewIBoFngWI
 #EXTINF:-1 xui-id="2090900" tvg-id="" tvg-name="24/7 | Sailor Moon Crystal" tvg-logo="http://ceoapps.org/logos/saloormon.png" group-title="TV | 24/7 Infantil",24/7 | Sailor Moon Crystal
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xvYOOFKwEz5-3qmFsFX3pG
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklPCP_-P92eAEQPke6w5exE
 #EXTINF:-1 xui-id="2091021" tvg-id="" tvg-name="24/7 | South Park" tvg-logo="http://atlantis-mx.com/logos/soutpark24.png" group-title="TV | 24/7 Series",24/7 | South Park
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yUNCr842_zbrddygNsTmt9
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkvc_1258hgGrwIvX2cK6lxM
 #EXTINF:-1 xui-id="2090896" tvg-id="" tvg-name="24/7 | Teen Titans Go" tvg-logo="http://ceoapps.org/logos/teentitansgo.png" group-title="TV | 24/7 Infantil",24/7 | Teen Titans Go
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xDY6iGlJiQH81z7A7GdBuW
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmW98fGb2NT-gVYmpeo09SI
 #EXTINF:-1 xui-id="2091018" tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="http://ceoapps.org/logos/bigbang24.png" group-title="TV | 24/7 Series",24/7 | The Big Bang Theory
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xpyatBF4UqS3mashGYBmZq
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkku2kGgWeAYSPIGWOWfFygpg
 #EXTINF:-1 xui-id="2091019" tvg-id="" tvg-name="24/7 | The Walking Dead" tvg-logo="http://ceoapps.org/logos/walkingdead.png" group-title="TV | 24/7 Series",24/7 | The Walking Dead
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yPQ3DUH49wuDDIZsnHm8Ef
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkk4THBl88HcisSF-N_hDojM
 #EXTINF:-1 xui-id="2090897" tvg-id="" tvg-name="24/7 | Vaca y Pollito" tvg-logo="http://ceoapps.org/logos/vacaypollito.png" group-title="TV | 24/7 Infantil",24/7 | Vaca y Pollito
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zkg91haQJloHPRGqvuzq0Z
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklCUwM48bLElggd3B2PUMIw
 #EXTINF:-1 xui-id="2090898" tvg-id="" tvg-name="24/7 | Yu Gi Oh" tvg-logo="http://ceoapps.org/logos/yugioh.png" group-title="TV | 24/7 Infantil",24/7 | Yu Gi Oh
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zaDO6oqI1FyQd8WD-DP0AS
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko_it5ijnlRNVoIoRJO8Sek
 #EXTINF:-1 xui-id="2090962" tvg-id="" tvg-name="24/7:  xmen" tvg-logo="http://ceoapps.org/logos/xmen.png" group-title="TV | 24/7 Retro",24/7:  xmen
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yUdgwyZNJ0wpyQbnm3WzVW
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkrG5VTSHpbG5pGf3XliLFgA
 #EXTINF:-1 xui-id="2090923" tvg-id="" tvg-name="24/7: CINE ACCION HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ACCION HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wFLJkBVscDE05vJ9Hip9Kd
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksiI1twgpHQRG5aeFtdBDHo
 #EXTINF:-1 xui-id="2090924" tvg-id="" tvg-name="24/7: CINE COMEDIA 1" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE COMEDIA 1
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yy7ZKmW7CUWrV5dCPc0hGU
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgTSD64u3RwPh_8jS9CleNQ
 #EXTINF:-1 xui-id="2090925" tvg-id="" tvg-name="24/7: CINE COMEDIA 2" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE COMEDIA 2
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yJGS_tgmmOslnuPfW_c6du
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkjv_0Rwa-PfQ72aXXiEHJoE
 #EXTINF:-1 xui-id="2090926" tvg-id="" tvg-name="24/7: CINE FANTASIA 2" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA 2
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6ykSbYOwszDXhlNMYKjrBm1
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkktwohjeU0alsltN9zJftSbY
 #EXTINF:-1 xui-id="2090927" tvg-id="" tvg-name="24/7: CINE FANTASIA HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wnKTItTa9r9O7x_r4tKo9x
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklyavsE4j67T0Kl1MiEbCoE
 #EXTINF:-1 xui-id="2090928" tvg-id="" tvg-name="24/7: CINE FANTASIA SAGAS" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE FANTASIA SAGAS
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wAxRjnMd5O0Hq7WquaGxYq
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkko2Q51uQ_WiAP2TCGqBuv0o
 #EXTINF:-1 xui-id="2090930" tvg-id="" tvg-name="24/7: CINE INFANTIL HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE INFANTIL HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yofUPQS41ui8abjLCAM1xn
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhXUKRbl_Iw5q748lpET6-s
 #EXTINF:-1 xui-id="2090931" tvg-id="" tvg-name="24/7: CINE ROMANCE" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ROMANCE
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xBOOPS3H8RwgxgzUAZL_NA
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknrCm2wjdinO4tYH_CKfqQ0
 #EXTINF:-1 xui-id="2090932" tvg-id="" tvg-name="24/7: CINE ROMANCE HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ROMANCE HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yc8zsHevFAnNpymRz2Tx_Y
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkuT7mp7MKusV6V_oj9IJl-g
 #EXTINF:-1 xui-id="2090933" tvg-id="" tvg-name="24/7: CINE TERROR" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE TERROR
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yYfknvXOw-HpJrQVpPH-TJ
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkklT5H7K9ts4kb1TzLkN_vuY
 #EXTINF:-1 xui-id="2090934" tvg-id="" tvg-name="24/7: CINE TERROR HD" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE TERROR HD
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wlv0eHyHVQug3GuoqtE3dn
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkk_anGBfM6MKpqbY0adSvXQ
 #EXTINF:-1 xui-id="2090935" tvg-id="" tvg-name="24/7: CINE ZOMBIES" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: CINE ZOMBIES
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6y5eQcRpSRXfpMmXA7RnE7V
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkvtZipqhOf7YYkX6oLliM8s
 #EXTINF:-1 xui-id="2090980" tvg-id="" tvg-name="24/7: El chapuli­n colorado" tvg-logo="http://ceoapps.org/logos/chapulincolorado.png" group-title="TV | 24/7 Retro",24/7: El chapuli­n colorado
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6ywrJthpckGg3n7_xqV7Z0g
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkuUkEJjiFHjUBtxpl1swfFw
 #EXTINF:-1 xui-id="2091028" tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="http://ceoapps.org/logos/elchavo8.png" group-title="TV | 24/7 Series",24/7: El chavo del 8
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yvj7Bao4DCzRwBdl8jfFpL
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkksTKWGiFWqVBrl3K1IQNPro
 #EXTINF:-1 xui-id="2090961" tvg-id="" tvg-name="24/7: he man" tvg-logo="http://ceoapps.org/logos/heman.png" group-title="TV | 24/7 Retro",24/7: he man
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z-Yq40z7O9gNxyjASWPJFT
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkoV2vDUChLI6STG0iip8ThI
 #EXTINF:-1 xui-id="2090981" tvg-id="" tvg-name="24/7: Los locos Addams" tvg-logo="http://ceoapps.org/logos/locosadams.png" group-title="TV | 24/7 Retro",24/7: Los locos Addams
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wVvUBjfEQpRTRTkHirPexC
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkhvDNlwFQGFKTuqjMQ_lk0A
 #EXTINF:-1 xui-id="2091027" tvg-id="" tvg-name="24/7: Malcolm" tvg-logo="http://atlantis-mx.com/logos/malcolm.png" group-title="TV | 24/7 Series",24/7: Malcolm
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xV5lQ58RL3E_8Jfx_2qD8i
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkl0_f-i5diXyv3eN_TQWx88
 #EXTINF:-1 xui-id="2090956" tvg-id="" tvg-name="24/7: Mazingerz" tvg-logo="http://ceoapps.org/logos/mazinger.png" group-title="TV | 24/7 Retro",24/7: Mazingerz
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yzBwLWoMj-F7NUKmb1-n65
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkmG3D57Jii9hq7haCCca6o0
 #EXTINF:-1 xui-id="2090902" tvg-id="" tvg-name="24/7: naruto" tvg-logo="http://ceoapps.org/logos/naruto.png" group-title="TV | 24/7 Infantil",24/7: naruto
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yylbdHdCyjRlZEeViPUbvc
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkm3h8MeqROmKmWGya0iqV3w
 #EXTINF:-1 xui-id="2090936" tvg-id="" tvg-name="24/7: peliculas estrenos" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7: peliculas estrenos
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6z8uara3AzulHhGgoUWQVxx
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkkY3uLL6SiC06JZ5Sl73Qy0
 #EXTINF:-1 xui-id="2090901" tvg-id="" tvg-name="24/7 | Pinky y Cerebro (B)" tvg-logo="http://ceoapps.org/logos/pinkyycerebro.png" group-title="TV | 24/7 Infantil",24/7 | Pinky y Cerebro (B)
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zjSsPH4HcrxTHN_mM2U1Id
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkksm9H87EE2D0tUgCkJgEpCo
 #EXTINF:-1 xui-id="2090959" tvg-id="" tvg-name="24/7: robotech" tvg-logo="http://ceoapps.org/logos/robotech.png" group-title="TV | 24/7 Retro",24/7: robotech
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6ziTT0_TZgMlAGvFuwrZEL4
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknK1li-uKiZBkB86uZ2Pdb4
 #EXTINF:-1 xui-id="2090969" tvg-id="" tvg-name="24/7: shera" tvg-logo="http://ceoapps.org/logos/shera.png" group-title="TV | 24/7 Series",24/7: shera
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6zFc0c_yjo0DKH1f7utz50G
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkoz8KI5JE9laJrplhb7bAMc
 #EXTINF:-1 xui-id="2091024" tvg-id="" tvg-name="24/7: Smallville" tvg-logo="http://atlantis-mx.com/logos/smalville24.png" group-title="TV | 24/7 Series",24/7: Smallville
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xgNUSX0B6pRTXFk4egILL4
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkgSkh68NAyOEdBJ9_Fwuf1Y
 #EXTINF:-1 xui-id="2091026" tvg-id="" tvg-name="24/7: South Park" tvg-logo="http://atlantis-mx.com/logos/soutpark24.png" group-title="TV | 24/7 Series",24/7: South Park
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xRtr85OEUkSr-hVUB4G2NP
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkkiRrGRDfnjAEg29fX2xOSpU
 #EXTINF:-1 xui-id="2090970" tvg-id="" tvg-name="24/7: Spiderman" tvg-logo="http://ceoapps.org/logos/spidermanretro.png" group-title="TV | 24/7 Retro",24/7: Spiderman
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6xk6IHhgeY0prm8tRXuZ358
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0Tdkkr01fk5oLy5ntHIehGUD49o
 #EXTINF:-1 xui-id="2091025" tvg-id="" tvg-name="24/7: Strangerthings" tvg-logo="http://atlantis-mx.com/logos/stranger24.png" group-title="TV | 24/7 Series",24/7: Strangerthings
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6wGsQcNl5fNiVU4gOBqtXHA
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknIaMQ4FHbV_mLAsjkfpBBA
 #EXTINF:-1 xui-id="2090960" tvg-id="" tvg-name="24/7: Super campeones" tvg-logo="http://ceoapps.org/logos/supercampeones.png" group-title="TV | 24/7 Retro",24/7: Super campeones
-https://sdmx.vip:443/play/9XZ1zy_fy0SflvWdStIiob7PbyPJKp07Unxkl91FX6yxI1IBerglPAAw-wSRla4C
+https://sdmx.vip:443/play/C1UVGOPV6gjcXEvX0TdkknsBNiOEpR9FLAAAml5_YdQ
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de Accion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="♦ 24/7 4K & 60 FPS",24/7 Peliculas de Accion
 http://bazarpremium.digital:80/mvQLqX84dm7F/BsvSMaJCzhEA/352994
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de Animacion" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/018/107/390/small_2x/4k-ultra-hd-resolution-sign-icon-png.png" group-title="♦ 24/7 4K & 60 FPS",24/7 Peliculas de Animacion
